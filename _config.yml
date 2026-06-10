@@ -23,14 +23,14 @@ repository               : "yusu1219/yusu1219.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "None png"
+  name             : "JingL Qi"
+  pronouns         : "he/his"  
+  bio              : "None bio"
+  location         : "Wuxi, Jiangsu"
+  employer         : "Jiangnan University"
+  uri              : "None uri"
+  email            : "15803729439@163.com" 
 
   # Academic websites
   academia         : # URL
